@@ -60,6 +60,6 @@ I am someone who enjoys connecting the dots: be it ideas from different discipli
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Heroko](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Snowflake](https://learnenglishkids.britishcouncil.org/sites/kids/files/styles/max_325x325/public/image/RS1778_Snowflake%20col-web.jpg?itok=TMuQnQFI)
+![Snowflake]( https://img.shields.io/badge/Snowflake-FF3621?style=for-the-badge&logo=Snowflake&logoColor=white)
 
 
