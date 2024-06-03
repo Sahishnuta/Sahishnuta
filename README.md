@@ -61,5 +61,5 @@ I am someone who enjoys connecting the dots: be it ideas from different discipli
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Heroko](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Snowflake]( https://img.shields.io/badge/Snowflake-FF3621?style=for-the-badge&logo=Snowflake&logoColor=white)
-
+![Microsoft Azure](https://img.shields.io/badge/Microsoft-Azure-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white)
 
